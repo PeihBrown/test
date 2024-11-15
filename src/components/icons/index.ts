@@ -1,0 +1,9 @@
+export { default as ArrowUpIcon } from "./ArrowUpIcon";
+export { default as BrandLogoIcon } from "./BrandLogoIcon";
+export { default as ChallengeIcon } from "./ChallengeIcon";
+export { default as CupIcon } from "./CupIcon";
+export { default as DocumentIcon } from "./DocumentIcon";
+export { default as HamburgerMenuIcon } from "./HamburgerMenuIcon";
+export { default as InfoSquareIcon } from "./InfoSquareIcon";
+export { default as KnifeIcon } from "./KnifeIcon";
+export { default as XIcon } from "./XIcon";
